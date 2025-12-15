@@ -1,2 +1,2 @@
-# my-first-repo
-My first practice repo
+Hello!
+This is my first GitHub repo
